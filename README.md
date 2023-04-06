@@ -3,9 +3,9 @@
 🔭 I’m currently looking for a full stack position!
 
 💬 About me: I have just finished a 3 months bootcamp in Web Development learning Ruby on Rails, Javascript, PostgreSQL, HTML & SCSS.
-- ⚡Developing desktops and responsive apps with Ruby on Rails
-- ⚡Relaying on the MVC architecture and using PostrgreSQL to interact with DB
--⚡Deploying with Scalingo
+    ⚡Developing desktops and responsive apps with Ruby on Rails
+    ⚡Relaying on the MVC architecture and using PostrgreSQL to interact with DB
+    ⚡Deploying with Scalingo
 
 <!--
 **mlanglois26/mlanglois26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
