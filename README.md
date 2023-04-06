@@ -7,9 +7,6 @@
 - ⚡Relaying on the MVC architecture and using PostrgreSQL to interact with DB
 - ⚡Deploying with Scalingo
 
-I’m jekepddc Languages and Tools
-currently
-
 <h4 align="left">Languages and Tools</h4>
 <p align="left"> 
    <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
