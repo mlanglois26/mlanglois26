@@ -3,9 +3,9 @@
 🔭 I’m currently looking for a ✨ full stack position ✨ in a passionate and friendly team!
 
 💬 About me: I have just finished a 3 months bootcamp in Web Development learning Ruby on Rails, Javascript, PostgreSQL, HTML & SCSS.
-- ⚡Developing in groups 2 desktops and responsives apps with Ruby on Rails
-- ⚡Relaying on the MVC architecture and using PostrgreSQL to interact with DB
-- ⚡Deploying with Scalingo
+- ⚡Developed in groups 2 desktops and responsives apps with Ruby on Rails
+- ⚡Followed the MVC architecture and used PostrgreSQL to interact with DB
+- ⚡Deployed with Scalingo
 
 <h4 align="left">Languages and Tools</h4>
 <p align="left"> 
