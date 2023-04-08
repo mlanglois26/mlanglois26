@@ -7,7 +7,7 @@
 - ⚡Followed the MVC architecture and used PostgreSQL to interact with DB
 - ⚡Deployed with Scalingo
 
-- 🌱 Here is the link of the demo of my final group project: https://drive.google.com/file/d/1Vntfyl1_OoNigrsVJ4RHDgozZ3t_NYJq/view?usp=share_link
+- 🌱 Here is the link to the demo of my final group project: https://drive.google.com/file/d/1Vntfyl1_OoNigrsVJ4RHDgozZ3t_NYJq/view?usp=share_link
 
 <h4 align="left">Languages and Tools</h4>
 <p align="left"> 
