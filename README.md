@@ -1,13 +1,6 @@
 ### Hi there, I am Marie 👋
 
-🔭 I’m currently looking for a ✨ full stack position ✨ in a passionate and friendly team!
-
-💬 About me: I have just finished a 3 months bootcamp in Web Development learning Ruby on Rails, Javascript, PostgreSQL, HTML & SCSS.
-- ⚡Developed in groups 2 desktops and responsives apps with Ruby on Rails
-- ⚡Followed the MVC architecture and used PostgreSQL to interact with DB
-- ⚡Deployed with Scalingo
-
-- 🌱 Here is the link to the demo of my final group project: https://drive.google.com/file/d/1Vntfyl1_OoNigrsVJ4RHDgozZ3t_NYJq/view?usp=share_link
+Currently studying at 42 Paris!
 
 <h4 align="left">Languages and Tools</h4>
 <p align="left"> 
