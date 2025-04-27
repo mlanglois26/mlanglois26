@@ -1,6 +1,6 @@
 ### Hi there, I am Marie 👋
 
-Currently studying at 42 Paris!
+
 <!--
 **mlanglois26/mlanglois26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
